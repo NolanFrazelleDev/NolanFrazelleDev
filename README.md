@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nolan Frazelle</h1>
 <h3 align="center">Full-stack web developer</h3>
+<p align="left"> I am a passionate, self-motivated learner. Familiar with Javascript and Node.js</p>
 
 - 👨‍💻 All of my projects are available at [frazelledev.com](frazelledev.com)
 
